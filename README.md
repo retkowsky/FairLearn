@@ -1,4 +1,4 @@
-# FairLearn exemples
+# FairLearn examples
 
 <img src="https://fairlearn.github.io/_static/images/header-image.png" width="400">
 
