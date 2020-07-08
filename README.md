@@ -8,3 +8,6 @@ The Fairlearn package has two components:
 
 Documentation : https://fairlearn.github.io/
 
+Azure ML Service: https://azure.microsoft.com/en-us/services/machine-learning-service/
+
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
