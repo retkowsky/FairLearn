@@ -6,7 +6,7 @@ The Fairlearn package has two components:
 - A dashboard for assessing which groups are negatively impacted by a model, and for comparing multiple models in terms of various fairness and accuracy metrics.
 - Algorithms for mitigating unfairness in a variety of AI tasks and along a variety of fairness definitions.
 
-QuickStart: https://fairlearn.github.io/quickstart.html
+QuickStart: https://fairlearn.github.io/quickstart.html<br>
 Documentation : https://fairlearn.github.io/
 
 <img src="https://github.com/retkowsky/images/blob/master/FairLearn%20(1).png?raw=true">
