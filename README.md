@@ -7,10 +7,13 @@ The Fairlearn package has two components:
 - Algorithms for mitigating unfairness in a variety of AI tasks and along a variety of fairness definitions.
 
 QuickStart: https://fairlearn.github.io/quickstart.html
-
 Documentation : https://fairlearn.github.io/
 
-Azure ML Service: https://azure.microsoft.com/en-us/services/machine-learning-service/
+<img src="https://github.com/retkowsky/images/blob/master/FairLearn%20(1).png?raw=true">
+<img src="https://github.com/retkowsky/images/blob/master/FairLearn%20(2).png?raw=true">
+<img src="https://github.com/retkowsky/images/blob/master/FairLearn%20(3).png?raw=true">
+<img src="https://github.com/retkowsky/images/blob/master/FairLearn%20(4).png?raw=true">
+<img src="https://github.com/retkowsky/images/blob/master/FairLearn%20(5).png?raw=true">
 
 
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
